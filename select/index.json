@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "PRIDE",
+  "base_artist": "今井美樹",
+  "createdAt": "2026-02-24T17:07:30.107944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pride (In The Name Of Love)",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/02_Pride_(In_The_Name_Of_Love)_U2.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Foolish Pride",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/03_Foolish_Pride_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Foolish Pride (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/04_Foolish_Pride_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stubborn Pride",
+      "artist": "Zac Brown Band feat. Jamey Johnson & Marcus King",
+      "has_synced": false,
+      "path": "select/05_Stubborn_Pride_Zac_Brown_Band_feat._Jamey_Johnson_&_Marcus_King.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stubborn Pride (feat. Marcus King)",
+      "artist": "Zac Brown Band",
+      "has_synced": false,
+      "path": "select/06_Stubborn_Pride_(feat._Marcus_King)_Zac_Brown_Band.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heretic Pride",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/07_Heretic_Pride_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Take a Lot of Pride in What I Am",
+      "artist": "Dean Martin",
+      "has_synced": true,
+      "path": "select/08_I_Take_a_Lot_of_Pride_in_What_I_Am_Dean_Martin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everything But My Pride",
+      "artist": "Cutting Crew",
+      "has_synced": false,
+      "path": "select/09_Everything_But_My_Pride_Cutting_Crew.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everything But My Pride - 92 Remix",
+      "artist": "Cutting Crew",
+      "has_synced": true,
+      "path": "select/10_Everything_But_My_Pride_-_92_Remix_Cutting_Crew.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everything But My Pride - Radio Edit",
+      "artist": "Cutting Crew",
+      "has_synced": true,
+      "path": "select/11_Everything_But_My_Pride_-_Radio_Edit_Cutting_Crew.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everything But My Pride (Radio Edit)",
+      "artist": "Cutting Crew",
+      "has_synced": true,
+      "path": "select/12_Everything_But_My_Pride_(Radio_Edit)_Cutting_Crew.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love & Pride",
+      "artist": "King",
+      "has_synced": false,
+      "path": "select/13_Love_&_Pride_King.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love & Pride",
+      "artist": "King",
+      "has_synced": true,
+      "path": "select/14_Love_&_Pride_King.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Love & Pride (Body & Soul remix)",
+      "artist": "KING",
+      "has_synced": false,
+      "path": "select/15_Love_&_Pride_(Body_&_Soul_remix)_KING.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love & Pride (Body & Soul mix)",
+      "artist": "King",
+      "has_synced": false,
+      "path": "select/16_Love_&_Pride_(Body_&_Soul_mix)_King.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love & Pride (Body and Soul Mix)",
+      "artist": "KING",
+      "has_synced": false,
+      "path": "select/17_Love_&_Pride_(Body_and_Soul_Mix)_KING.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love & Pride (USA Summer Mix)",
+      "artist": "KING",
+      "has_synced": false,
+      "path": "select/18_Love_&_Pride_(USA_Summer_Mix)_KING.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Mothers Pride",
+      "artist": "George Michael",
+      "has_synced": true,
+      "path": "select/19_Mothers_Pride_George_Michael.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pride",
+      "artist": "今井 美樹",
+      "has_synced": false,
+      "path": "select/pl_01_Pride_今井_美樹.txt"
+    }
+  ]
+}
